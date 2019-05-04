@@ -41,4 +41,17 @@ node liri.js do-what-it-says
 
 ----------------
 
+Technologies Used:
+
+Spotify API
+
+OMDB API
+
+Bands In Town API
+
+Node.js
+
+Javascript
+
+NPM packages
 
