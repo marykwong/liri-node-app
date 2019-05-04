@@ -21,15 +21,15 @@ JSON package
 
 These are the possible inputs:
 
-node liri.js concert-this <artist/band name here>
+node liri.js concert-this "artist/band name here"
 
 ![concert](concert.png)
 
-node liri.js spotify-this-song <song name here>
+node liri.js spotify-this-song "song name here"
 
 ![spotify](spotify.png)
 
-node liri.js movie-this <movie name here>
+node liri.js movie-this "movie name here"
 
 ![spotify](movie.png)
 
