@@ -93,7 +93,7 @@ function bandsInTown(name){
             console.log("---------------------------")
             console.log(concert.venue.name)
             console.log(concert.venue.city + ", " + concert.venue.region)
-            console.log(concert.datetime)
+            console.log(moment(concert.datetime).format("MM/DD/YYYY"))
             console.log("---------------------------")
             })
         }
